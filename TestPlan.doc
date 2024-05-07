@@ -124,9 +124,10 @@ Scope of Test Plan for Restful Booker API:
 20. Third-Party Integration Testing:
     - Validate any third-party integrations for smooth functioning.
 
-It's important to note that the scope of the test plan may evolve during the testing process based on feedback, changing requirements, or discoveries during testing. The scope should be reviewed and adjusted accordingly throughout the testing phase to ensure comprehensive coverage of the Restful Booker API.
-
-
+It's important to note that the scope of the test plan may evolve during the testing process based on feedback, 
+changing requirements, or discoveries during testing. 
+The scope should be reviewed and adjusted accordingly throughout the testing phase to ensure comprehensive 
+coverage of the Restful Booker API.
 
 Inclusions
 
